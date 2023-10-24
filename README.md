@@ -1,4 +1,4 @@
-**SGSSI-23Lab05_A3.js**
+**SGSSI-23Lab06_A1.js**
 Este es un programa Node.js que compara un archivo de entrada con archivos en un directorio y busca aquellos archivos que cumplan con ciertas condiciones:
  - Los archivos de los direcotorios tienen de texto exactamente por los mismos contenidos que el archivo entrada.
  - Los archivos de los direcotorios tienen una línea adicional con una secuencia de 8 caracteres en hexadecimal (se utilizará la representación en minúsculas de las letras a-f), seguida de un separador, seguida del identificador público del estudiante (los dos caracteres hexadecimales en minúscula) seguidos de la secuencia 100 (ejemplo).
