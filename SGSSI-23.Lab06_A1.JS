@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 if (process.argv.length !== 4) {
-  console.log('Uso: node SGSSI-23Lab05_A3.js <nombre_del_archivo_entrada>  <directorio_de_archivos>');
+  console.log('Uso: node SGSSI-23.Lab06_A1.JS <nombre_del_archivo_entrada>  <directorio_de_archivos>');
   process.exit(1);
 }
 
