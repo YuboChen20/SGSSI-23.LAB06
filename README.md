@@ -4,6 +4,8 @@ Este es un programa Node.js que compara un archivo de entrada con archivos en un
  - Los archivos de los direcotorios tienen una línea adicional con una secuencia de 8 caracteres en hexadecimal (se utilizará la representación en minúsculas de las letras a-f), seguida de un separador, seguida del identificador público del estudiante (los dos caracteres hexadecimales en minúscula) seguidos de la secuencia 100 (ejemplo).
  - El resumen SHA-256 del archivo comienza por el carácter hexadecimal “0”, como minimo dos seguidas.
 Entre los ficheros que cumple dichas condiciones, se escoge el primero que tenga las secuencia de 0's más largo.
+**SGSSI-23Lab06_A1_MenosRestrictivo.js:**
+Esta version acepta los espacios como separador, mientras la version anterior solo acepta tabulador.
 
 **Requisitos:**
 Asegúrate de tener Node.js instalado en tu sistema antes de ejecutar este programa.
